@@ -36,10 +36,10 @@ author:
   avatar           : "jingkui.jpg"
   name             : "Jingkui Yang"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "PhD student, College of Computer Science and Technology, National University of Defense Technology"
+  bio              : "PhD student at National University of Defense Technology"
   location         : "109 Deya Rd., Kaifu District, Changsha, Hunan, China"
   # employer         : "Red Brick University"
-  uri              : 'https://github.com/kelvin0207' # URL
+  uri              : 'https://dblp.org/pid/399/1709.html' # URL
   email            : "yangjingkui@nudt.edu.cn" 
 
   # Academic websites
@@ -57,13 +57,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : 'https://github.com/kelvin0207'
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
